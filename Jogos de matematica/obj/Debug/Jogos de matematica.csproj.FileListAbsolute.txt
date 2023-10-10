@@ -1,0 +1,14 @@
+C:\Users\Fatec\Desktop\Jogos de matematica\Jogos de matematica\bin\Debug\Jogos de matematica.exe.config
+C:\Users\Fatec\Desktop\Jogos de matematica\Jogos de matematica\bin\Debug\Jogos de matematica.exe
+C:\Users\Fatec\Desktop\Jogos de matematica\Jogos de matematica\bin\Debug\Jogos de matematica.pdb
+C:\Users\Fatec\Desktop\Jogos de matematica\Jogos de matematica\obj\Debug\Jogos de matematica.csprojAssemblyReference.cache
+C:\Users\Fatec\Desktop\Jogos de matematica\Jogos de matematica\obj\Debug\Jogos_de_matematica.Form1.resources
+C:\Users\Fatec\Desktop\Jogos de matematica\Jogos de matematica\obj\Debug\Jogos_de_matematica.Properties.Resources.resources
+C:\Users\Fatec\Desktop\Jogos de matematica\Jogos de matematica\obj\Debug\Jogos de matematica.csproj.GenerateResource.cache
+C:\Users\Fatec\Desktop\Jogos de matematica\Jogos de matematica\obj\Debug\Jogos de matematica.csproj.CoreCompileInputs.cache
+C:\Users\Fatec\Desktop\Jogos de matematica\Jogos de matematica\obj\Debug\Jogos de matematica.exe
+C:\Users\Fatec\Desktop\Jogos de matematica\Jogos de matematica\obj\Debug\Jogos de matematica.pdb
+C:\Users\Fatec\Desktop\Jogos de matematica\Jogos de matematica\obj\Debug\Jogos_de_matematica.Form2.resources
+C:\Users\Fatec\Desktop\Jogos de matematica\Jogos de matematica\obj\Debug\Jogos_de_matematica.Form3.resources
+C:\Users\Fatec\Desktop\Jogos de matematica\Jogos de matematica\obj\Debug\Jogos_de_matematica.Form4.resources
+C:\Users\Fatec\Desktop\Jogos de matematica\Jogos de matematica\obj\Debug\Jogos_de_matematica.Form5.resources
