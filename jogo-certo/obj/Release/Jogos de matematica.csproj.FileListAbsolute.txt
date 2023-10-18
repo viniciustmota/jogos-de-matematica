@@ -1,0 +1,40 @@
+C:\Users\Fatec\Desktop\Jogos de matematica\Jogos de matematica\bin\Release\Jogos de matematica.exe.config
+C:\Users\Fatec\Desktop\Jogos de matematica\Jogos de matematica\bin\Release\Jogos de matematica.exe
+C:\Users\Fatec\Desktop\Jogos de matematica\Jogos de matematica\bin\Release\Jogos de matematica.pdb
+C:\Users\Fatec\Desktop\Jogos de matematica\Jogos de matematica\obj\Release\Jogos_de_matematica.Form1.resources
+C:\Users\Fatec\Desktop\Jogos de matematica\Jogos de matematica\obj\Release\Jogos_de_matematica.Form2.resources
+C:\Users\Fatec\Desktop\Jogos de matematica\Jogos de matematica\obj\Release\Jogos_de_matematica.Form3.resources
+C:\Users\Fatec\Desktop\Jogos de matematica\Jogos de matematica\obj\Release\Jogos_de_matematica.Form4.resources
+C:\Users\Fatec\Desktop\Jogos de matematica\Jogos de matematica\obj\Release\Jogos_de_matematica.Form5.resources
+C:\Users\Fatec\Desktop\Jogos de matematica\Jogos de matematica\obj\Release\Jogos_de_matematica.Properties.Resources.resources
+C:\Users\Fatec\Desktop\Jogos de matematica\Jogos de matematica\obj\Release\Jogos de matematica.csproj.GenerateResource.cache
+C:\Users\Fatec\Desktop\Jogos de matematica\Jogos de matematica\obj\Release\Jogos de matematica.csproj.CoreCompileInputs.cache
+C:\Users\Fatec\Desktop\Jogos de matematica\Jogos de matematica\obj\Release\Jogos de matematica.exe
+C:\Users\Fatec\Desktop\Jogos de matematica\Jogos de matematica\obj\Release\Jogos de matematica.pdb
+C:\Users\Fatec\Desktop\jogos-de-matematica\Jogos de matematica\obj\Release\Jogos_de_matematica.Form1.resources
+C:\Users\Fatec\Desktop\jogos-de-matematica\Jogos de matematica\obj\Release\Jogos_de_matematica.Form2.resources
+C:\Users\Fatec\Desktop\jogos-de-matematica\Jogos de matematica\obj\Release\Jogos_de_matematica.Form3.resources
+C:\Users\Fatec\Desktop\jogos-de-matematica\Jogos de matematica\obj\Release\Jogos_de_matematica.Form4.resources
+C:\Users\Fatec\Desktop\jogos-de-matematica\Jogos de matematica\obj\Release\Jogos_de_matematica.Form5.resources
+C:\Users\Fatec\Desktop\jogos-de-matematica\Jogos de matematica\obj\Release\Jogos_de_matematica.Properties.Resources.resources
+C:\Users\Fatec\Desktop\jogos-de-matematica\Jogos de matematica\obj\Release\Jogos de matematica.csproj.GenerateResource.cache
+C:\Users\Fatec\Desktop\jogos-de-matematica\Jogos de matematica\obj\Release\Jogos de matematica.csproj.CoreCompileInputs.cache
+C:\Users\Fatec\Desktop\jogos-de-matematica\Jogos de matematica\obj\Release\Jogos de matematica.exe
+C:\Users\Fatec\Desktop\jogos-de-matematica\Jogos de matematica\obj\Release\Jogos de matematica.pdb
+C:\Users\Fatec\Desktop\jogos-de-matematica\Jogos de matematica\bin\Release\Jogos de matematica.exe.config
+C:\Users\Fatec\Desktop\jogos-de-matematica\Jogos de matematica\bin\Release\Jogos de matematica.exe
+C:\Users\Fatec\Desktop\jogos-de-matematica\Jogos de matematica\bin\Release\Jogos de matematica.pdb
+C:\Users\Fatec\Downloads\jogos-de-matematica\jogos-de-matematica\Jogos de matematica\bin\Release\Jogos de matematica.exe.config
+C:\Users\Fatec\Downloads\jogos-de-matematica\jogos-de-matematica\Jogos de matematica\bin\Release\Jogos de matematica.exe
+C:\Users\Fatec\Downloads\jogos-de-matematica\jogos-de-matematica\Jogos de matematica\bin\Release\Jogos de matematica.pdb
+C:\Users\Fatec\Downloads\jogos-de-matematica\jogos-de-matematica\Jogos de matematica\obj\Release\Jogos de matematica.csprojAssemblyReference.cache
+C:\Users\Fatec\Downloads\jogos-de-matematica\jogos-de-matematica\Jogos de matematica\obj\Release\Jogos_de_matematica.Form1.resources
+C:\Users\Fatec\Downloads\jogos-de-matematica\jogos-de-matematica\Jogos de matematica\obj\Release\Jogos_de_matematica.Form2.resources
+C:\Users\Fatec\Downloads\jogos-de-matematica\jogos-de-matematica\Jogos de matematica\obj\Release\Jogos_de_matematica.Form3.resources
+C:\Users\Fatec\Downloads\jogos-de-matematica\jogos-de-matematica\Jogos de matematica\obj\Release\Jogos_de_matematica.Form4.resources
+C:\Users\Fatec\Downloads\jogos-de-matematica\jogos-de-matematica\Jogos de matematica\obj\Release\Jogos_de_matematica.Form5.resources
+C:\Users\Fatec\Downloads\jogos-de-matematica\jogos-de-matematica\Jogos de matematica\obj\Release\Jogos_de_matematica.Properties.Resources.resources
+C:\Users\Fatec\Downloads\jogos-de-matematica\jogos-de-matematica\Jogos de matematica\obj\Release\Jogos de matematica.csproj.GenerateResource.cache
+C:\Users\Fatec\Downloads\jogos-de-matematica\jogos-de-matematica\Jogos de matematica\obj\Release\Jogos de matematica.csproj.CoreCompileInputs.cache
+C:\Users\Fatec\Downloads\jogos-de-matematica\jogos-de-matematica\Jogos de matematica\obj\Release\Jogos de matematica.exe
+C:\Users\Fatec\Downloads\jogos-de-matematica\jogos-de-matematica\Jogos de matematica\obj\Release\Jogos de matematica.pdb
